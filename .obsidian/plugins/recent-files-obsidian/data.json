@@ -1,0 +1,61 @@
+{
+  "recentFiles": [
+    {
+      "basename": "OCTO",
+      "path": "Topics/Manipulation Robotics/OCTO.md"
+    },
+    {
+      "basename": "2024-06-15",
+      "path": "Journaling/2024-06-15.md"
+    },
+    {
+      "basename": "Daily Notes",
+      "path": "Templates/Daily Notes.md"
+    },
+    {
+      "basename": "Diffusion",
+      "path": "Concepts/Diffusion/Diffusion.md"
+    },
+    {
+      "basename": "The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey",
+      "path": "Concepts/Transformers/The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.md"
+    },
+    {
+      "basename": "Manipulation Robotics",
+      "path": "Topics/Manipulation Robotics/Manipulation Robotics.md"
+    },
+    {
+      "basename": "GPT4-Based Reinforcement Learning",
+      "path": "Concepts/RL/GPT4-Based Reinforcement Learning.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "Concepts/Transformers/Transformers.md"
+    },
+    {
+      "basename": "DDIM (DD-Implicit Models)",
+      "path": "Concepts/Diffusion/DDIM (DD-Implicit Models).md"
+    },
+    {
+      "basename": "CLIP",
+      "path": "Concepts/Diffusion/CLIP.md"
+    },
+    {
+      "basename": "Stable Diffusion",
+      "path": "Concepts/Diffusion/Stable Diffusion.md"
+    },
+    {
+      "basename": "RL",
+      "path": "Concepts/RL/RL.md"
+    },
+    {
+      "basename": "Dr Eureka",
+      "path": "Concepts/RL/Dr Eureka.md"
+    },
+    {
+      "basename": "Diffusion Models",
+      "path": "Concepts/Diffusion/Diffusion Models.md"
+    }
+  ],
+  "omittedPaths": []
+}

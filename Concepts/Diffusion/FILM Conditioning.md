@@ -1,0 +1,1 @@
+A method to infuse a certain form of embedding into a CNN-like architecture.

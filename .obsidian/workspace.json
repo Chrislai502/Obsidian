@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "ebedd156e69cb2dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f321f07822a398e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978a47b75fc0fa4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Manipulation Robotics/OCTO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7897a59c9414f926",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ceb3d4d8d746bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf32845cfb99cab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcc0990a2329c357",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40cac66b2bef1357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "46e524c97d00e7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d91bc4385669d18",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "073966d394da1990",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "115a552d631968d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e1389aa110f1dd",
+        "type": "tabs",
+        "dimension": 51.64835164835165,
+        "children": [
+          {
+            "id": "f7cdcf5bee54f1c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7865e42c4a12501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c61e9938b16b4b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d514c0a849599929",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:Journaling  ",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.359375,
+                  "repelStrength": 12.0833333333333,
+                  "linkStrength": 1,
+                  "linkDistance": 118,
+                  "scale": 0.9292308938797079,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "242d0dcecf9a3221",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c352bc64621af717",
+        "type": "tabs",
+        "dimension": 48.35164835164835,
+        "children": [
+          {
+            "id": "a08b1dc89e53d317",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 833.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "a08b1dc89e53d317",
+  "lastOpenFiles": [
+    "Topics/Manipulation Robotics/OCTO.md",
+    "Journaling/2024-06-15.md",
+    "Templates/Daily Notes.md",
+    "Concepts/Diffusion/Diffusion.md",
+    "Concepts/Transformers/The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.md",
+    "Topics/Manipulation Robotics/Manipulation Robotics.md",
+    "Concepts/Untitled.md",
+    "Concepts/RL/GPT4-Based Reinforcement Learning.md",
+    "Topics/Manipulation Robotics",
+    "Topics",
+    "Concepts/Transformers/Transformers.md",
+    "Concepts/RL",
+    "Untitled 1",
+    "Concepts/Transformers",
+    "Concepts/Diffusion/DDIM (DD-Implicit Models).md",
+    "Concepts/Diffusion/CLIP.md",
+    "Concepts/Diffusion",
+    "Concepts",
+    "Concepts/Diffusion/Stable Diffusion.md",
+    "Concepts/RL/RL.md",
+    "Concepts/RL/Dr Eureka.md",
+    "Journaling/Attachments",
+    "Concepts/Diffusion/Diffusion Models.md",
+    "Journaling",
+    "2024-06-15.md",
+    "Templates",
+    "Topics/Manipulation Robotics/What Matters in Learning from Offline Human Demonstrations for Robot Manipulation.md",
+    "Possible Directions.md",
+    "Concepts/Transformers/Understanding the Difficulty In Training Transformers.md",
+    "Concepts/Diffusion/Nvidia Diffusion Model Arcticles.md",
+    "Concepts/Diffusion/Planning with Diffusion (OG DP).md",
+    "Concepts/Diffusion/Diffusion Policy.md",
+    "Topics/Manipulation Robotics/Open VLA.md",
+    "Concepts/Diffusion/FILM Conditioning.md",
+    "Denoising Diffusion Implicit Models.md",
+    "Concepts/Diffusion/Langevin Dynamics.md"
+  ]
+}

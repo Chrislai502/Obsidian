@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Journaling  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Concepts/Diffusion  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Concepts/Transformers  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Concepts/RL  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Topics/Manipulation Robotics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10018200
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.865625,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.817708333333333,
+  "repelStrength": 15.2083333333333,
+  "linkStrength": 1,
+  "linkDistance": 59,
+  "scale": 0.7888849967877996,
+  "close": true
+}
