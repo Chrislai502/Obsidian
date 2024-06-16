@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Manipulation Robotics/OCTO.md",
+                "file": "Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reinforcement Learning.md"
+              }
             }
           },
           {
@@ -144,6 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Reinforcement Learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -220,10 +225,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a08b1dc89e53d317",
+  "active": "978a47b75fc0fa4a",
   "lastOpenFiles": [
-    "Topics/Manipulation Robotics/OCTO.md",
     "Journaling/2024-06-15.md",
+    "Reinforcement Learning.md",
+    "Topics/Manipulation Robotics/OCTO.md",
     "Templates/Daily Notes.md",
     "Concepts/Diffusion/Diffusion.md",
     "Concepts/Transformers/The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.md",
@@ -256,7 +262,6 @@
     "Concepts/Diffusion/Diffusion Policy.md",
     "Topics/Manipulation Robotics/Open VLA.md",
     "Concepts/Diffusion/FILM Conditioning.md",
-    "Denoising Diffusion Implicit Models.md",
-    "Concepts/Diffusion/Langevin Dynamics.md"
+    "Denoising Diffusion Implicit Models.md"
   ]
 }
