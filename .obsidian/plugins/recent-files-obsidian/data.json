@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-06-15",
-      "path": "Journaling/2024-06-15.md"
-    },
-    {
       "basename": "Reinforcement Learning",
       "path": "Reinforcement Learning.md"
     },
     {
+      "basename": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation",
+      "path": "Topics/Manipulation Robotics/What Matters in Learning from Offline Human Demonstrations for Robot Manipulation.md"
+    },
+    {
       "basename": "OCTO",
       "path": "Topics/Manipulation Robotics/OCTO.md"
+    },
+    {
+      "basename": "2024-06-15",
+      "path": "Journaling/2024-06-15.md"
     },
     {
       "basename": "Daily Notes",

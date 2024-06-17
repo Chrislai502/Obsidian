@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journaling/2024-06-15.md",
+                "file": "Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.5
   },
   "right": {
     "id": "115a552d631968d4",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journaling/2024-06-15.md",
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journaling/2024-06-15.md",
+                "file": "Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journaling/2024-06-15.md"
+                "file": "Reinforcement Learning.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journaling/2024-06-15.md",
+                "file": "Reinforcement Learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -171,7 +171,7 @@
                   "repelStrength": 12.0833333333333,
                   "linkStrength": 1,
                   "linkDistance": 118,
-                  "scale": 0.9292308938797079,
+                  "scale": 1.7303351792124968,
                   "close": true
                 }
               }
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 833.5,
-    "collapsed": true
+    "width": 788.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,11 +225,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "978a47b75fc0fa4a",
+  "active": "d514c0a849599929",
   "lastOpenFiles": [
-    "Reinforcement Learning.md",
-    "Journaling/2024-06-15.md",
+    "Topics/Manipulation Robotics/What Matters in Learning from Offline Human Demonstrations for Robot Manipulation.md",
     "Topics/Manipulation Robotics/OCTO.md",
+    "Journaling/2024-06-15.md",
+    "Reinforcement Learning.md",
     "Templates/Daily Notes.md",
     "Concepts/Diffusion/Diffusion.md",
     "Concepts/Transformers/The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.md",
@@ -255,7 +255,6 @@
     "Journaling",
     "2024-06-15.md",
     "Templates",
-    "Topics/Manipulation Robotics/What Matters in Learning from Offline Human Demonstrations for Robot Manipulation.md",
     "Possible Directions.md",
     "Concepts/Transformers/Understanding the Difficulty In Training Transformers.md",
     "Concepts/Diffusion/Nvidia Diffusion Model Arcticles.md",
