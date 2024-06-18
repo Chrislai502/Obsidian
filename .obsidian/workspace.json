@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Templates/Obsidian Important Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 262.5
   },
   "right": {
     "id": "115a552d631968d4",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Templates/Obsidian Important Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Templates/Obsidian Important Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning.md"
+                "file": "Templates/Obsidian Important Notes.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Templates/Obsidian Important Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 788.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +225,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d514c0a849599929",
+  "active": "978a47b75fc0fa4a",
   "lastOpenFiles": [
+    "Reinforcement Learning.md",
+    "Templates/Obsidian Important Notes.md",
     "Topics/Manipulation Robotics/What Matters in Learning from Offline Human Demonstrations for Robot Manipulation.md",
     "Topics/Manipulation Robotics/OCTO.md",
     "Journaling/2024-06-15.md",
-    "Reinforcement Learning.md",
     "Templates/Daily Notes.md",
     "Concepts/Diffusion/Diffusion.md",
     "Concepts/Transformers/The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.md",
@@ -261,7 +262,6 @@
     "Concepts/Diffusion/Planning with Diffusion (OG DP).md",
     "Concepts/Diffusion/Diffusion Policy.md",
     "Topics/Manipulation Robotics/Open VLA.md",
-    "Concepts/Diffusion/FILM Conditioning.md",
-    "Denoising Diffusion Implicit Models.md"
+    "Concepts/Diffusion/FILM Conditioning.md"
   ]
 }
