@@ -101,7 +101,7 @@
       {
         "id": "d7e1389aa110f1dd",
         "type": "tabs",
-        "dimension": 51.64835164835165,
+        "dimension": 51.64835164835166,
         "children": [
           {
             "id": "f7cdcf5bee54f1c1",
@@ -194,7 +194,7 @@
       {
         "id": "c352bc64621af717",
         "type": "tabs",
-        "dimension": 48.35164835164835,
+        "dimension": 48.35164835164834,
         "children": [
           {
             "id": "a08b1dc89e53d317",
@@ -221,8 +221,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "periodic-notes:Open today": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "978a47b75fc0fa4a",
