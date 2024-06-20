@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Obsidian Important Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Obsidian Important Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Obsidian Important Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Obsidian Important Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -210,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 690.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +220,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978a47b75fc0fa4a",
+  "active": "a08b1dc89e53d317",
   "lastOpenFiles": [
-    "Reinforcement Learning.md",
     "Templates/Obsidian Important Notes.md",
+    "Reinforcement Learning.md",
     "Topics/Manipulation Robotics/What Matters in Learning from Offline Human Demonstrations for Robot Manipulation.md",
     "Topics/Manipulation Robotics/OCTO.md",
     "Journaling/2024-06-15.md",
