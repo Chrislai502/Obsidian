@@ -13,3 +13,8 @@ Source:
 To make sure that `ksshaskpass` is used whenever an SSH key passphrase is required, you need to create a symbolic link from `ksshaskpass` to `ssh-askpass`. This tells the SSH client to use `ksshaskpass` for passphrase prompts.
 
 To ensure that Git uses `ksshaskpass` for SSH operations, you need to configure Git to use it as the `core.askPass` helper. This setting makes sure that whenever Git requires a passphrase for an SSH key, it will prompt you using `ksshaskpass`.  
+
+```mermaid
+
+Cre
+```
