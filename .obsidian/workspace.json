@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e16ebd7b0cf3279a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unleashing Large Scale Video Generative Pre-Training For Visual Robot Manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb0b9cfbf91e3773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unleashing Large Scale Video Generative Pre-Training For Visual Robot Manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -109,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Manipulation From Human Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Manipulation From Human Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Manipulation From Human Demo.md"
+              }
             }
           },
           {
@@ -144,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Manipulation From Human Demo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -220,9 +249,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a08b1dc89e53d317",
+  "active": "978a47b75fc0fa4a",
   "lastOpenFiles": [
+    "Unleashing Large Scale Video Generative Pre-Training For Visual Robot Manipulation.md",
     "Manipulation From Human Demo.md",
+    "Watch_and_Act_Learning_Robotic_Manipulation_From_Visual_Demonstration 1.pdf",
+    "Watch_and_Act_Learning_Robotic_Manipulation_From_Visual_Demonstration.pdf",
+    "PLEX.md",
     "Cross-Domain Transfer via Semantic Skill Imitation.md",
     "Topics/Manipulation Robotics/Manipulation Robotics.md",
     "Templates/Obsidian Important Notes.md",
@@ -250,13 +283,8 @@
     "Concepts/RL/Dr Eureka.md",
     "Journaling/Attachments",
     "Concepts/Diffusion/Diffusion Models.md",
-    "Journaling",
     "2024-06-15.md",
-    "Templates",
     "Possible Directions.md",
-    "Concepts/Transformers/Understanding the Difficulty In Training Transformers.md",
-    "Concepts/Diffusion/Nvidia Diffusion Model Arcticles.md",
-    "Concepts/Diffusion/Planning with Diffusion (OG DP).md",
-    "Concepts/Diffusion/Diffusion Policy.md"
+    "Concepts/Transformers/Understanding the Difficulty In Training Transformers.md"
   ]
 }
