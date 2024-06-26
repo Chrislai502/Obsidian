@@ -1,4 +1,5 @@
-[[Diffusion Policy]]
-[[OCTO]]
-[[Open VLA]]
+- [[Diffusion Policy]]
+- [[OCTO]]
+- [[Open VLA]]
+- [[Manipulation From Human Demo]]
 #topic

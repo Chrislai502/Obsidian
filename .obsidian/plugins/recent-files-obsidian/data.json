@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Manipulation From Human Demo",
+      "path": "Manipulation From Human Demo.md"
+    },
+    {
+      "basename": "Cross-Domain Transfer via Semantic Skill Imitation",
+      "path": "Cross-Domain Transfer via Semantic Skill Imitation.md"
+    },
+    {
+      "basename": "Manipulation Robotics",
+      "path": "Topics/Manipulation Robotics/Manipulation Robotics.md"
+    },
+    {
       "basename": "Obsidian Important Notes",
       "path": "Templates/Obsidian Important Notes.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey",
       "path": "Concepts/Transformers/The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.md"
-    },
-    {
-      "basename": "Manipulation Robotics",
-      "path": "Topics/Manipulation Robotics/Manipulation Robotics.md"
     },
     {
       "basename": "GPT4-Based Reinforcement Learning",
