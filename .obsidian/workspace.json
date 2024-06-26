@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Plus.md",
+                "file": "Manipulation From Human Demo.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Manipulation From Human Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Manipulation From Human Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Manipulation From Human Demo.md"
+              }
             }
           },
           {
@@ -168,6 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Manipulation From Human Demo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -244,7 +249,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a08b1dc89e53d317",
+  "active": "978a47b75fc0fa4a",
   "lastOpenFiles": [
     "Human Plus.md",
     "Manipulation From Human Demo.md",
