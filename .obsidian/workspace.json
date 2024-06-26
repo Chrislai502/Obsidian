@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manipulation From Human Demo.md",
+                "file": "Human Plus.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manipulation From Human Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manipulation From Human Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Manipulation From Human Demo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +168,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Manipulation From Human Demo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Journaling  ",
@@ -249,10 +244,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "978a47b75fc0fa4a",
+  "active": "a08b1dc89e53d317",
   "lastOpenFiles": [
-    "Unleashing Large Scale Video Generative Pre-Training For Visual Robot Manipulation.md",
+    "Human Plus.md",
     "Manipulation From Human Demo.md",
+    "Unleashing Large Scale Video Generative Pre-Training For Visual Robot Manipulation.md",
     "Watch_and_Act_Learning_Robotic_Manipulation_From_Visual_Demonstration 1.pdf",
     "Watch_and_Act_Learning_Robotic_Manipulation_From_Visual_Demonstration.pdf",
     "PLEX.md",
